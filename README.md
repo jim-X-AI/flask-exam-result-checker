@@ -1,10 +1,6 @@
 
 
 ---
-
-### 📄 README.md
-
-```markdown
 # Flask Exam Result Checker
 
 A simple Flask-based web application that allows users to check exam results by providing a course name and matriculation number. This project uses **CSV files** as the data source, making it lightweight and easy to set up without requiring a database.
